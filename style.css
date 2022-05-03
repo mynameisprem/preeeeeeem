@@ -1,0 +1,35 @@
+.logo{
+    height: 50px;
+    border-radius: 100%;
+ margin: 0px;
+}
+*{
+    background-image: url(bg.png);
+    
+}
+.md{
+ margin: 10px;
+}
+.con{
+    color: rgb(156, 0, 0);
+    margin: 10px;
+    padding: 40px;
+}
+.coco{
+   margin-left: 18px;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ font-size: larger;
+ color: black;
+ font-display: 10px;
+}
+.home{
+    padding-left: 250px;
+    padding-top: 120px;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(49, 32, 32);
+}
+.widw{
+    font-size: larger;
+    padding-left: 20px;
+}
